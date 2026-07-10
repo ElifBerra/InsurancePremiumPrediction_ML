@@ -32,7 +32,7 @@ RandomForestRegressor
 Sigorta primlerini etkileyen en önemli faktör yaş (Age) değişkenidir.
 
 
-<img width="1033" height="397" alt="image" src="https://github.com/user-attachments/assets/83e1636e-fb96-459c-a9c0-bd503867aa3c" />
+<img width="906" height="407" alt="image" src="https://github.com/user-attachments/assets/441ef218-d4c7-4c19-bff3-8e331439324f" />
 <img width="417" height="641" alt="image" src="https://github.com/user-attachments/assets/ddb5e3b4-7b45-4809-9aaa-8e974e558270" />
 <img width="762" height="803" alt="image" src="https://github.com/user-attachments/assets/77216c18-016a-42b7-8427-d9d3fbcadca8" />
 <img width="644" height="518" alt="image" src="https://github.com/user-attachments/assets/9e411995-3d0e-4e8a-8d6f-259adc281303" />
